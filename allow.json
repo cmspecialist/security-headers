@@ -25,5 +25,7 @@
   "*.livechatinc.com",
   "live.steam.eu.com",
   "*.doubleclick.net",
-  "*.sentry-cdn.com"
+  "*.sentry.io",
+  "*.sentry-cdn.com",
+  "*.ingest.sentry.io"
 ]
