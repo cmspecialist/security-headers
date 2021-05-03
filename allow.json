@@ -30,5 +30,6 @@
   "*.sentry.io",
   "*.sentry-cdn.com",
   "*.ingest.sentry.io",
-  "*.inboxify.nl"
+  "*.inboxify.nl",
+  "*.facebook.net"
 ]
