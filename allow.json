@@ -29,5 +29,6 @@
   "*.doubleclick.net",
   "*.sentry.io",
   "*.sentry-cdn.com",
-  "*.ingest.sentry.io"
+  "*.ingest.sentry.io",
+  "*.inboxify.nl"
 ]
