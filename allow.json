@@ -41,6 +41,7 @@
   "*.visualwebsiteoptimizer.com",
   "*.clerk.io",
   "cognito-identity.eu-central-1.amazonaws.com",
+  "firehose.eu-central-1.amazonaws.com",
   "bat.bing.com",
   "*.criteo.net",
   "*.criteo.com"
