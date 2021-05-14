@@ -45,5 +45,7 @@
   "bat.bing.com",
   "*.criteo.net",
   "*.criteo.com",
-  "*.klarnacdn.net"
+  "*.klarna.com",
+  "*.klarnacdn.net",
+  "eu.klarnaevt.com"
 ]
