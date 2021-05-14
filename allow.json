@@ -36,5 +36,6 @@
   "*.kiyoh.com",
   "*.hotjar.com",
   "*.visualwebsiteoptimizer.com",
-  "*.clerk.io"
+  "*.clerk.io",
+  "*.eu-central-1.amazonaws.com"
 ]
