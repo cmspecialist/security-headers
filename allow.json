@@ -34,8 +34,10 @@
   "*.facebook.net",
   "*.simplybook.it",
   "*.kiyoh.com",
-  "*.hotjar.com",
+  "static.hotjar.com",
   "*.visualwebsiteoptimizer.com",
   "*.clerk.io",
-  "*.eu-central-1.amazonaws.com"
+  "cognito-identity.eu-central-1.amazonaws.com",
+  "bat.bing.com",
+  "static.criteo.net"
 ]
