@@ -44,5 +44,6 @@
   "firehose.eu-central-1.amazonaws.com",
   "bat.bing.com",
   "*.criteo.net",
-  "*.criteo.com"
+  "*.criteo.com",
+  "*.klarnacdn.net"
 ]
