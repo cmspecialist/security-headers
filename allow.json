@@ -34,7 +34,7 @@
   "*.facebook.net",
   "*.simplybook.it",
   "*.kiyoh.com",
-  "static.hotjar.com",
+  "*.hotjar.com",
   "*.visualwebsiteoptimizer.com",
   "*.clerk.io",
   "cognito-identity.eu-central-1.amazonaws.com",
