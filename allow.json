@@ -47,5 +47,6 @@
   "*.criteo.com",
   "*.klarna.com",
   "*.klarnacdn.net",
-  "eu.klarnaevt.com"
+  "eu.klarnaevt.com",
+  "*.sendcloud.sc"
 ]
