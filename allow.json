@@ -39,5 +39,6 @@
   "*.clerk.io",
   "cognito-identity.eu-central-1.amazonaws.com",
   "bat.bing.com",
-  "static.criteo.net"
+  "static.criteo.net",
+  "gum.criteo.com"
 ]
