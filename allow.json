@@ -49,5 +49,6 @@
   "*.klarna.com",
   "*.klarnacdn.net",
   "eu.klarnaevt.com",
-  "*.sendcloud.sc"
+  "*.sendcloud.sc",
+  "*.linkedin.com"
 ]
