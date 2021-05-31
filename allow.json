@@ -41,6 +41,7 @@
   "*.hotjar.io",
   "*.visualwebsiteoptimizer.com",
   "*.clerk.io",
+  "s3.amazonaws.com",
   "cognito-identity.eu-central-1.amazonaws.com",
   "firehose.eu-central-1.amazonaws.com",
   "*.bing.com",
