@@ -59,5 +59,6 @@
   "opendata.rdw.nl",
   "onlinetouch.nl",
   "app.qonnex.nl",
-  "cdn-images.mailchimp.com"
+  "cdn-images.mailchimp.com",
+  "*.activehosted.com"
 ]
