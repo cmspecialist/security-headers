@@ -66,5 +66,6 @@
   "app.qonnex.nl",
   "cdn-images.mailchimp.com",
   "*.activehosted.com",
-  "mc.yandex.ru"
+  "mc.yandex.ru",
+  "calltracking-api.grizzlymarketing.nl"
 ]
