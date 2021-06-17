@@ -5,7 +5,6 @@
   "*.clerk.io",
   "*.criteo.com",
   "*.criteo.net",
-  "data.sportlink.com",
   "*.doubleclick.net",
   "*.facebook.com",
   "*.facebook.net",
@@ -53,6 +52,8 @@
   "cdn.leadinfo.net",
   "cognito-identity.eu-central-1.amazonaws.com",
   "collector.leadinfo.net",
+  "data.sportlink.com",
+  "embed.typeform.com",
   "eu.klarnaevt.com",
   "extreme-ip-lookup.com",
   "firehose.eu-central-1.amazonaws.com",
@@ -74,6 +75,5 @@
   "www.bromslooplijn.nl",
   "www.googletagservices.com",
   "youtube-nocookie.com",
-  "youtube.com",
-  "embed.typeform.com"
+  "youtube.com"
 ]
