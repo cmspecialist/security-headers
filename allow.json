@@ -3,6 +3,7 @@
   "*.addthis.com",
   "*.bing.com",
   "*.clerk.io",
+  "*.cloudfront.net",
   "*.criteo.com",
   "*.criteo.net",
   "*.doubleclick.net",
