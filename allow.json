@@ -64,6 +64,7 @@
   "cdn.leadinfo.net",
   "cdnjs.cloudflare.com",
   "chimpstatic.com",
+  "cnv.adt644.net",
   "cognito-identity.eu-central-1.amazonaws.com",
   "collector.leadinfo.net",
   "conversations.app-us1.com",
@@ -95,13 +96,13 @@
   "snap.licdn.com",
   "trackcmp.net",
   "viewer.autodesk.com",
-  "www.visuelexperience.nl",
   "widget.onlineafspraken.nl",
   "wss://*.hotjar.com",
   "wss://*.tawk.to",
   "www.bromslooplijn.nl",
   "www.googletagservices.com",
   "www.memori.nl",
+  "www.visuelexperience.nl",
   "youtube-nocookie.com",
   "youtube.com"
 ]
