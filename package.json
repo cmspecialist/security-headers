@@ -1,0 +1,11 @@
+{
+  "name": "security-headers",
+  "version": "1.0.0",
+  "repository": "https://github.com/cmspecialist/security-headers.git",
+  "scripts": {
+    "lint": "eslint allow.json"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
