@@ -260,6 +260,6 @@
   "youtube.com",
   "klantenvertellen.nl",
   "*.wiqhit.com",
-  "https://www.zenaps.com",
-  "https://www.the.sciencebehindecommerce.com/d9core"
+  "*.zenaps.com",
+  "*.sciencebehindecommerce.com"
 ]
