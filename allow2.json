@@ -1,9 +1,11 @@
 [
   "cdn.jsdelivr.net/npm/apexcharts",
-  "use.typekit.net",
-  "fonts.googleapis.com",
+  "*.googleapis.com",
   "*.ingest.sentry.io"
   "*.sentry-cdn.com",
   "*.sentry.io",
+  "use.typekit.net",
   "*.typekit.net"
+  "googleapis.com",
+  "ontwikkel.test",
 ]
