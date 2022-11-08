@@ -1,7 +1,7 @@
 [
   "cdn.jsdelivr.net/npm/apexcharts",
   "*.googleapis.com",
-  "*.ingest.sentry.io"
+  "*.ingest.sentry.io",
   "*.sentry-cdn.com",
   "*.sentry.io",
   "use.typekit.net",
