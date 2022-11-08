@@ -1,3 +1,6 @@
 [
-  "cdn.jsdelivr.net/npm/apexcharts"
+  "cdn.jsdelivr.net/npm/apexcharts",
+  "use.typekit.net",
+  "fonts.googleapis.com",
+  "*.ingest.sentry.io"
 ]
