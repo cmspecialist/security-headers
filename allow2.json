@@ -3,4 +3,6 @@
   "use.typekit.net",
   "fonts.googleapis.com",
   "*.ingest.sentry.io"
+  "*.sentry-cdn.com",
+  "*.sentry.io",
 ]
