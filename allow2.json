@@ -5,7 +5,7 @@
   "*.sentry-cdn.com",
   "*.sentry.io",
   "use.typekit.net",
-  "*.typekit.net"
+  "*.typekit.net",
   "googleapis.com",
-  "fonts.gstatic.com",
+  "fonts.gstatic.com"
 ]
