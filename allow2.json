@@ -5,4 +5,5 @@
   "*.ingest.sentry.io"
   "*.sentry-cdn.com",
   "*.sentry.io",
+  "*.typekit.net"
 ]
